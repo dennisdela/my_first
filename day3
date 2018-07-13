@@ -1,0 +1,23 @@
+import this 
+
+import antigravity
+
+
+name = input("what is your name: ")
+type(name)
+
+age = input("how old are you :")
+type(age)
+
+
+
+
+
+
+print (\n\n\n)
+d=1
+for d in range (1,5):
+	print ("*"+4)
+
+
+
